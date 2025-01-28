@@ -148,6 +148,4 @@ Real-time training progress is plotted with scores and average scores using Matp
 
 ---
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
