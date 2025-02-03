@@ -40,7 +40,7 @@ This repository contains the implementation of a Snake Game AI using **Deep Q-Le
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/snake-game-ai.git
+   git clone --
    cd snake-game-ai
    ```
 
